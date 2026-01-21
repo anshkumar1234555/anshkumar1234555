@@ -1,5 +1,7 @@
-# 💫 About Me:
-i am currently learning
+# 💫 ANSH KUMAR SINGH:
+Hi, I am Ansh Kumar Singh, currently a 4th-year, B.Tech student.
+I am passionate about software development and programming, and I am currently learning Git for version control to manage my projects efficiently.
+I enjoy building and collaborating on coding projects and exploring new technologies to enhance my skills.
 
 
 ## 🌐 Socials:
