@@ -1,7 +1,25 @@
 # 💫 ANSH KUMAR SINGH:
-Hi, I am Ansh Kumar Singh, currently a 4th-year, B.Tech student.
-I am passionate about software development and programming, and I am currently learning Git for version control to manage my projects efficiently.
-I enjoy building and collaborating on coding projects and exploring new technologies to enhance my skills.
+Hi, I'm Ansh Kumar Singh 👋
+
+I'm a Computer Science Engineering graduate passionate about Software Development and Backend Engineering.
+I enjoy building real-world applications, developing RESTful APIs, working with databases, and exploring new technologies to solve practical problems.
+
+🚀 Currently Focusing On
+Backend Development with Java, Spring Boot, and Python
+Data Structures and Algorithms (DSA)
+REST APIs, Microservices, and System Design
+Database Management with MySQL, PostgreSQL, and MongoDB
+Cloud Technologies and DevOps fundamentals
+Git and GitHub for version control and collaboration
+
+💻 Technical Interests
+Backend Engineering
+Full-Stack Development
+Cloud Computing
+Artificial Intelligence and Machine Learning
+
+🎯 My Goal
+To become a skilled Backend Engineer by continuously learning, building practical projects, and improving my problem-solving abilities.
 
 
 ## 🌐 Socials:
